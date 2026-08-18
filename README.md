@@ -1,0 +1,1 @@
+A simple chat support application for with backend for human assistance.
